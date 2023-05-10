@@ -346,6 +346,12 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
 OUTPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
 OUTPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.pdf
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -360,3 +366,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newpx/zpl-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.aux
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /Users/admin/Dropbox/MyFancyProjects/behavioral-econ-lit/note1.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/newpx/zplb.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/newpx/zplr.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/newpx/zplri.pfb
